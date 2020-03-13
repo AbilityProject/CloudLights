@@ -1,0 +1,18 @@
+List of Physical Materials
+* E6000 Glue
+* Batting: https://www.michaels.com/classic-loft-batting/10400614.html#start=5
+* Magnetic Hooks: https://www.amazon.com/gp/product/B07DFYFQTD/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&psc=1 
+* Triple wall outlet: https://www.amazon.com/gp/product/B01K1JR3Z4/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&psc=1 
+* 15’ USB Cables: https://www.amazon.com/gp/product/B00BCWALHM/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&psc=1
+* Arduino https://www.amazon.com/gp/product/B008GRTSV6/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
+* Breadboard: 
+https://www.amazon.com/gp/product/B0040Z1ERO/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1 
+* LEDs: https://www.amazon.com/gp/product/B01CDTEJBG/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+* 10” and 12” paper lanterns (West Village Party store)
+* Gorilla Tape https://www.amazon.com/gp/product/B00OXVG9FW/ref=ppx_yo_dt_b_asin_title_o05_s01?ie=UTF8&psc=1 
+* Outlet remote switch (Ace)
+
+
+Physical Materials Instructions and lessons learned in Construction
+* Add foam to metal support in center of paper lantern to mount arduino
+* Wrap LEDs around foam in center of paper lantern (add tape)
